@@ -1,0 +1,8 @@
+[
+  {"groupCd" : "age" , "code" : "A01", "codeValue" : "1세이하" },
+  {"groupCd" : "age" , "code" : "A23", "codeValue" : "2~3세" },
+  {"groupCd" : "age" , "code" : "A45", "codeValue" : "4~5세" },
+  {"groupCd" : "age" , "code" : "A67", "codeValue" : "6~7세" },
+  {"groupCd" : "gender" , "code" : "F", "codeValue" : "여성" },
+  {"groupCd" : "gender" , "code" : "M", "codeValue" : "남성" }
+]
